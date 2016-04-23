@@ -5,6 +5,11 @@ For use in Genetic Algorithms project, particularly evaluating genetic algorithm
 
 Maybe i'll add undirected graphs and weighted edges when school winds down for the semester.
 
+
+## Dependencies
+
+Pandas and NumPy are required. You may be able to `pypi install pandas`, but I would recommend installing Continuum.io's Anaconda distribution
+
 ## Usage
 
 `python graph_generator.py NUMBER_OF_NODES TARGET_FILE_NAME`
