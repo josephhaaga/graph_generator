@@ -13,7 +13,7 @@ in other words
 
 `python graph_generator.py 10 targetFile.csv` will yeild
 
-![sample output from command line](sample_output.csv)
+![sample output from command line](sample_output.png)
 
 and a csv file with your designated name will be generated inside the working directory.
 
