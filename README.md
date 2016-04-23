@@ -17,5 +17,7 @@ in other words
 
 and a csv file with your designated name will be generated inside the working directory.
 
+![output file ](screen.png)
+
 Joseph Haaga
 April 22 2016
